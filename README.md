@@ -1,0 +1,11 @@
+# Load-profile-simulator
+A school project to create a load profile simulator
+The project is required in Project subject at Vietnamese-German University.
+Project team member:
+	_Nguyen Tuan Lam
+	_Huynh Duc Dung
+	_Ly Nguyen Phuoc An
+	_Nguyen Tran Hoang Son
+The programming language is Java with the following library package:
+	_jre1.8.0_144
+	_All the packages from jfreechart-1.0.19.
