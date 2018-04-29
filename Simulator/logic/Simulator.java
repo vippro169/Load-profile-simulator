@@ -30,7 +30,7 @@ public class Simulator {
 						System.out.println("Test");
 						runTime(app, on, curves);
 					}
-					else if(house.get(i).equals("kettle")){
+					else if(house.get(i).equals("ddd")){
 						int on[] = {20000};
 						runTime(app, on, curves);
 					}
