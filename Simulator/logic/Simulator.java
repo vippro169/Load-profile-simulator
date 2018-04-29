@@ -20,7 +20,7 @@ public class Simulator {
 					for (int a = 0; a < app.length; a++) {
 						app[a] = 0;
 					}
-					if(house.get(i).equals("cccddd")) {
+					if(house.get(i).equals("dryer")) {
 						int on[] = {68400};
 						System.out.println("Test");
 						runTime(app, on, curves);
@@ -30,7 +30,7 @@ public class Simulator {
 						System.out.println("Test");
 						runTime(app, on, curves);
 					}
-					else if(house.get(i).equals("ddd")){
+					else if(house.get(i).equals("kettle")){
 						int on[] = {20000};
 						runTime(app, on, curves);
 					}
